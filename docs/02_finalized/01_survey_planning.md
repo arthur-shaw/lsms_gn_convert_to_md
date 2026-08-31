@@ -23,9 +23,7 @@ Non-sampling errors may arise from different sources and should be addressed at 
 
 This guidance aligns with the World Bank Group Development Data Quality Policy and its 13 Data Quality Principles, including Relevance, Coherence and Comparability, Metadata Standards, and Responsible Innovation. Survey teams are encouraged to map their planning decisions to these principles throughout the survey lifecycle. The lifecycle diagram provides an overview of all survey phases and serves as an organizing framework for the guidance that follows.
 
-**Figure 1.** Survey cycle
-
-![A diagram of a process  AI-generated content may be incorrect.](survey_planning_fig1.png)
+![Survey cycle](survey_planning_fig1.png){#fig-survey-cycle}
 
 Source: Own elaboration
 
@@ -72,9 +70,7 @@ The first step to conducting a survey is to identify the survey objectives by co
 
 One of the first tasks in planning a survey is structuring the survey team. The survey should comprise the core staff who will design and manage the survey, such as: the Survey Manager, Survey Sampler, Data Manager, and Field Manager, and the field staff who will implement the survey, such as: Interviewers, Supervisors, Data Entry Operators, Specialized Field Staff, Field Monitors, and Data Monitors. Some of the roles could be assumed by the same person, especially the core staff. The organizational chart below presents a basic survey team breakdown.
 
-**Figure 2.** Survey team
-
-**![A diagram of a data analysis  AI-generated content may be incorrect.](survey_planning_fig2.png)**
+![Survey team](survey_planning_fig2.png){#fig-survey-team}
 
 Source: Own elaboration
 
