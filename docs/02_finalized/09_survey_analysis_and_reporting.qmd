@@ -100,9 +100,7 @@ Conducting effective data analysis should involve maintaining a well-structured 
 
 Start by organizing your project with a clear folder and file structure. To ensure reproducibility, the processed dataset must be kept separately from the original dataset. Consider these questions when organizing the folders: Where will you save your original and processed datasets? Where will you store the file containing your analytical codes for easy access? Where will you save your output tables? Continuing with the example of the childcare arrangements analysis, below is an example folder structure for the study.
 
-**Figure 2**
-
-**Folder structure**
+![Folder structure](survey_analysis_fig2.png){#fig-folder-structure}
 
 **Step 2: Analysis and Documentation**
 
