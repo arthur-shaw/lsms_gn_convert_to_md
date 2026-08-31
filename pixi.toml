@@ -1,0 +1,11 @@
+[workspace]
+authors = ["Arthur Shaw <jashaw2002@gmail.com>"]
+channels = ["conda-forge"]
+name = "lsms_gn_convert_to_md"
+platforms = ["win-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+markitdown = "0.1.7.*"
